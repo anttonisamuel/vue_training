@@ -1,24 +1,17 @@
 # vue_training
 
-## Project setup
-```
-npm install
-```
+My first touch to Vue. The idea of this project was to learn basics of Vue and not to make an amazing-looking web app.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+What did I learn:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- How to setup a Vue project
+- How to build a simple single page web app
+- Template conditionals, loops and events
+- Forms and handling user input
+- Dynamic styling, SCSS and global styles
+- Routing with Vue router
 
-### Lints and fixes files
-```
-npm run lint
-```
+Things I did include in my project but got familiar with:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue 3 composition API
+- Global state management with Vuex 4
