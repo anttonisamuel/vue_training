@@ -1,4 +1,4 @@
-Vue training
+#Vue training
 
 My first touch to Vue. I already have experice with making web apps with React, therefore the idea of this project was to learn basics of Vue and not to make an amazing-looking web app.
 
