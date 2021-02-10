@@ -57,16 +57,10 @@
 </template>
 
 <script>
-import NewsItem from "./NewsItem";
-//import {reactive} from 'vue';
+import NewsItem from "../components/NewsItem";
 
 export default {
   name: "UserProfile",
-  //setup() {
-  //  const state = reactive({
-  //
-  //  })
-  //},
   components: { NewsItem },
   data() {
     return {

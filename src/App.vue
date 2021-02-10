@@ -1,20 +1,20 @@
 <template>
   <div id="app">
     <nav>
-      <div class="logo">
-        Anttoni's news service
-      </div>
+      <router-link to="/">
+        <div class="logo">
+          Anttoni's news service
+        </div>
+      </router-link>
+      <router-link to="/about">About</router-link>
     </nav>
-    <UserProfile />
+    <router-view />
   </div>
 </template>
 
 <script>
-import UserProfile from "./components/UserProfile";
-
 export default {
   name: "App",
-  components: { UserProfile },
 };
 </script>
 
