@@ -12,7 +12,7 @@ What did I learn:
 - Dynamic styling, SCSS and global styles
 - Routing with Vue router
 
-Things I did include in my project but got familiar with:
+Things I didn't include in my project but got familiar with:
 
 - Vue 3 composition API
 - Global state management with Vuex 4
