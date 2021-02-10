@@ -5,6 +5,7 @@ My first touch to Vue. I already have experice with making web apps with React, 
 What did I learn:
 
 - How to setup a Vue project
+- How to use Vue CLI
 - How to build a simple single page web app
 - Template conditionals, loops and events
 - Forms and handling user input
