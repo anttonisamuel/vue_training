@@ -1,6 +1,6 @@
 # vue_training
 
-My first touch to Vue. The idea of this project was to learn basics of Vue and not to make an amazing-looking web app.
+My first touch to Vue. I already have experice with making web apps with React, therefore the idea of this project was to learn basics of Vue and not to make an amazing-looking web app.
 
 What did I learn:
 
